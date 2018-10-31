@@ -7,6 +7,8 @@ I will show you the following aspects about the neighborhood I chose, Williamsbu
 
 ### Markdown
 
+![img](williamsburg.png)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
