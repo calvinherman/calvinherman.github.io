@@ -3,7 +3,7 @@
 Below you will find the following aspects about Williamsburg:
 1. The outline of the neighborhood (via JSON)
 2. The basic demographics and statistics of the neighborhood
-3. Bedford Av. station usage statistics
+3. Bedford Av.'s station usage statistics
 
 ### The outline of Williamsburg (via JSON)
 
