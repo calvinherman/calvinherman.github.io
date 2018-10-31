@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Page! 
 
-I will show you the following aspects about the neighborhood I chose, Williamsburg:
+Below you will find the following aspects about Williamsburg:
 1. The outline of the neighborhood (via JSON)
 2. The basic demographics and statistics of the neighborhood
 3. Bedford Av. station usage statistics
