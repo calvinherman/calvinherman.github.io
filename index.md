@@ -38,7 +38,7 @@ The distance from Williamsburg to Federal Hall stretches about 3 miles and to th
 ![error](will.png)
 
 South Williamsburg streetscape, featuring 
-Manhattan Bridge.
+Manhattan Bridge. Source: Wikipedia
 
 ### Bedford Av.'s station usage statistics
 1. Name of station: Bedford Av.
