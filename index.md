@@ -24,6 +24,6 @@ For the L-train tunnel closure project, I chose to study the impact of the const
 
 ### Turnstile Data
 
-![error](Screen Shot 2018-12-12 at 6.03.36 PM.png)
-![error](Screen Shot 2018-12-12 at 6.03.47 PM.png)
-![error](Screen Shot 2018-12-12 at 6.03.52 PM.png)
+![error](1.png)
+![error](2.png)
+![error](3.png)
