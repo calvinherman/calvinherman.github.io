@@ -18,3 +18,9 @@ For the L-train tunnel closure project, I chose to study the impact of the const
 2. Turnstile name: 00-00-00
 3. Number of entries for the turnstile the week of 8/25/18: 0000237254 - 0000218959 = 18295 entries
 4. Number of exits for the turnstile the week of 8/25/18: 0000125071 - 0000118739 = 6332 exits
+
+### Turnstile Data
+
+![error](Screen Shot 2018-12-12 at 6.03.36 PM.png)
+![error](Screen Shot 2018-12-12 at 6.03.47 PM.png)
+![error](Screen Shot 2018-12-12 at 6.03.52 PM.png)
