@@ -16,6 +16,10 @@ For the L-train tunnel closure project, I chose to study the impact of the const
 ### Picture of Williamsburg
 
 ![error](will.png)
+
+South Williamsburg streetscape, featuring 
+Manhattan Bridge.
+
 ### Bedford Av.'s station usage statistics
 1. Name of station: Bedford Av.
 2. Turnstile name: 00-00-00
@@ -24,6 +28,6 @@ For the L-train tunnel closure project, I chose to study the impact of the const
 
 ### Turnstile Data
 
-![error](1.png)
-![error](2.png)
-![error](3.png)
+![error](Screen Shot 2018-12-12 at 6.03.36 PM.png)
+![error](Screen Shot 2018-12-12 at 6.03.47 PM.png)
+![error](Screen Shot 2018-12-12 at 6.03.52 PM.png)
